@@ -9,8 +9,8 @@ Installation & Usage
 -------------------------------------------------
 
 1. Download and extract the files to a subfolder inside the `qa-plugins` folder of your Q2A installation.
-
-2. Go to Admin > Plugins >Hide Category Plugin, enable the plugin, and enter the slug of the category you want to hide.
+2. Be sure to use the right name ; if you download it from GitHub you'll have to remove the `-master` suffix from the folder name. Otherwise you'll get a 'file not found' error.
+3. Go to Admin > Plugins >Hide Category Plugin, enable the plugin, and enter the slug of the category you want to hide.
 
 
 Version history
