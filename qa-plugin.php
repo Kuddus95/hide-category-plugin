@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Hide Category
-	Plugin URI: https://github.com
+	Plugin URI: https://github.com/Kuddus95/hide-category-plugin
 	Plugin Description: Hides a specific category from the activity page
 	Plugin Version: 1.0
 	Plugin Date: 2016-10-17
